@@ -1,2 +1,4 @@
-# CNN
-UTD CS 6301
+# CNN Projects
+
+* EfficientNet From scratch
+* Artistic Style Transfer  
